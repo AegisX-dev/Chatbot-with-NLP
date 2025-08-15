@@ -18,7 +18,6 @@ A sophisticated web-based chatbot featuring real-time Natural Language Processin
 - [Contributing](#-contributing)
 - [Usage Examples](#-usage-examples)
 - [Browser Compatibility](#-browser-compatibility)
-- [License](#-license)
 
 ## ✨ Features
 
