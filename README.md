@@ -51,7 +51,7 @@ A sophisticated web-based chatbot featuring real-time Natural Language Processin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Chatbot-with-NLP.git
+   https://github.com/This-is-Baljot-Singh/Chatbot-with-NLP.git
    cd Chatbot-with-NLP
    ```
 
